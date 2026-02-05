@@ -20,11 +20,10 @@
 </p>
 
 ---
-
-### 📊 Tactical Intel (GitHub Stats)
+###  Tactical Intel (GitHub Stats)
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=bmw15925-hash&show_icons=true&theme=tokyonight&border_radius=10" alt="Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmw15925-hash&layout=compact&theme=tokyonight&border_radius=10" alt="Langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=bmw15925-hash&show_icons=true&theme=radical&border_radius=10" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmw15925-hash&layout=compact&theme=radical&border_radius=10" alt="Langs" />
 </p>
 
 ---
