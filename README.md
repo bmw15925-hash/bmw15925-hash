@@ -3,7 +3,7 @@
 
 ---
 
-### 🛡️ Operational Profile
+###  Operational Profile
 -  **Officer in the Falcons Intelligence Cell** | Tactical System Design.
 -  **Telecommunications Expert** | Former Engineer at **Huawei, Zain, and Earthlink**.
 -  **11 International Certifications** (HCIA, CCNA, CCNP) in Networking, 5G, and AI.
