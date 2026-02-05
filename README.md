@@ -9,6 +9,7 @@
 -  **11 International Certifications** (HCIA, CCNA, CCNP) in Networking, 5G, and AI.
 -  **OS Architect** | Designer of Custom Operating Systems and Large-scale Government Infrastructures.
 -  **Cybersecurity Researcher** | Focus on Exploit Development, Bug Bounty, and OSINT.
+-  **Open Source Contributor** | Successfully merged a [QR-code intelligence skill](https://github.com/openclaw/openclaw/pull/8817) into **OpenClaw**.
 
 ---
 
@@ -20,6 +21,7 @@
 </p>
 
 ---
+
 ###  Tactical Intel (GitHub Stats)
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Omar-Khaleel&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="Stats" />
@@ -29,12 +31,12 @@
 ---
 
 ###  Strategic Projects
+-  **QR Intelligence (OpenClaw):** Developed high-precision QR generation and decoding modules for a global AI ecosystem [Merged].
 -  **5G Network Optimization:** Advanced system architectures for high-speed telecommunications.
 -  **OSINT Aggregator:** Multi-platform data harvesting tool for social media intelligence.
--  **Enterprise Inventory System:** Secure Android-based management for large-scale operations.
 -  **Intelligence Operations Center:** Real-time satellite and radar monitoring interface.
 
 ---
 
 ###  Surveillance & Contact
-[Telegram](https://t.me/Tr1xy)
+  [Telegram](https://t.me/Tr1xy)
