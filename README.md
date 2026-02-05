@@ -22,8 +22,8 @@
 ---
 ###  Tactical Intel (GitHub Stats)
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=bmw15925-hash&show_icons=true&theme=dark&border_radius=10" alt="Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmw15925-hash&layout=compact&theme=dark&border_radius=10" alt="Langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=bmw15925-hash&show_icons=true&theme=dark&count_private=true" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmw15925-hash&layout=compact&theme=dark" alt="Langs" />
 </p>
 
 ---
@@ -37,4 +37,4 @@
 ---
 
 ###  Surveillance & Contact
- [Telegram](@Tr1xy)
+[Telegram](https://t.me/Tr1xy)
