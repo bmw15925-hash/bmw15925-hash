@@ -38,4 +38,4 @@
 ---
 
 ###  Surveillance & Contact
- [[Telegram](@Tr1xyL)
+ [Telegram](@Tr1xyL)
